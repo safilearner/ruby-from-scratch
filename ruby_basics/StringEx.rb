@@ -9,4 +9,7 @@ puts "#{full_name} is my name"
 #Getting String from console
 language = gets.chomp
 puts "#{language} is the learning laguage"
+#Length of the String
+len = language.length
+puts "#{len} is the size of the string"
 end
